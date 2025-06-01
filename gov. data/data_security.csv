@@ -1,0 +1,13 @@
+Date,IncidentID,IncidentType,DetectionTime,ResponseTime,MeasuresTaken
+2024-06-01,101,Unauthorized,57,102,Isolated
+2024-07-01,102,Unauthorized,46,80,Patched
+2024-08-01,103,Unauthorized,41,35,Monitored
+2024-09-01,104,Intrusion,23,6,Isolated
+2024-10-01,105,Malware,5,27,Monitored
+2024-11-01,106,Malware,38,84,Patched
+2024-12-01,107,Malware,9,15,Patched
+2025-01-01,108,Unauthorized,37,69,Patched
+2025-02-01,109,Unauthorized,7,91,Monitored
+2025-03-01,110,Malware,48,47,Patched
+2025-04-01,111,Intrusion,47,103,Isolated
+2025-05-01,112,Intrusion,36,56,Monitored

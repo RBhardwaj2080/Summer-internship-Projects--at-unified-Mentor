@@ -1,0 +1,13 @@
+Date,User,DataType,AccessCount,ComplianceStatus
+2024-06-01,Dave,PII,14,Compliant
+2024-07-01,Bob,Financial,75,Compliant
+2024-08-01,Carol,Financial,83,Non-compliant
+2024-09-01,Alice,PII,15,Compliant
+2024-10-01,Carol,PII,72,Compliant
+2024-11-01,Dave,Financial,25,Compliant
+2024-12-01,Carol,Financial,50,Compliant
+2025-01-01,Alice,Health,34,Non-compliant
+2025-02-01,Dave,PII,29,Non-compliant
+2025-03-01,Carol,Financial,77,Compliant
+2025-04-01,Dave,Health,57,Non-compliant
+2025-05-01,Alice,PII,18,Non-compliant

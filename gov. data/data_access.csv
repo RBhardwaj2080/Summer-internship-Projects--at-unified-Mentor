@@ -1,0 +1,13 @@
+Date,User,Department,Role,AccessRequestID,RequestStatus,ApprovalTime
+2024-06-01,Alice,HR,Analyst,1,Denied,1
+2024-07-01,Carol,Finance,Manager,2,Approved,3
+2024-08-01,Dave,Sales,Manager,3,Approved,1
+2024-09-01,Alice,HR,Admin,4,Denied,2
+2024-10-01,Carol,HR,Manager,5,Approved,1
+2024-11-01,Alice,IT,Admin,6,Approved,1
+2024-12-01,Carol,HR,Analyst,7,Denied,4
+2025-01-01,Bob,Sales,Manager,8,Denied,4
+2025-02-01,Dave,Sales,Analyst,9,Denied,1
+2025-03-01,Bob,IT,Analyst,10,Approved,3
+2025-04-01,Carol,IT,Analyst,11,Approved,3
+2025-05-01,Carol,Finance,Analyst,12,Denied,2
