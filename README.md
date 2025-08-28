@@ -12,11 +12,6 @@ Welcome to my data analytics project portfolio, completed during my summer inter
 
 # 4. Comprehensive Financial Performance Dashboard
 
-# Tools and Technologies
-
-
-# This collection demonstrates my ability to process, analyze, and visualize data to uncover actionable insights. Each project includes a detailed report in PDF format, showcasing the methodologies used, key findings, and strategic recommendations.
-
 # Projects
   Below is a summary of each analytics project included in this portfolio.
 
@@ -37,7 +32,7 @@ Key Insights: The analysis reveals the most and least popular pizzas
 identifies daily and hourly sales trends
 suggests data-driven strategies to increase revenue.
 
-  PDF:-Platos-Pizza-Sales-Optimization
+  PDF:-(https://github.com/RBhardwaj2080/Summer-internship-Projects--at-unified-Mentor/tree/Platos-Pizza-Sales-Optimization)
 
 # 3. Data Governance and Security Dashboard
 Objective: To create a dashboard that monitors data access, identifies potential security risks, and ensures compliance with data governance policies.
@@ -46,7 +41,7 @@ Key Insights: This report visualizes data access patterns
 flags unauthorized access attempts
 provides a clear overview of the organization's data security posture.
 
-View the Full Report (PDF)
+PDF:-https://github.com/RBhardwaj2080/Summer-internship-Projects--at-unified-Mentor/tree/Data-Governance-and-Security-Dashboard
 
 # 4. Comprehensive Financial Performance Dashboard
 Objective: To analyze the company's financial data to provide a clear and comprehensive overview of its performance, profitability, and financial health.
@@ -55,7 +50,7 @@ Key Insights: The dashboard tracks key financial metrics like revenue
 profit margins 
 expenses over time, enabling stakeholders to assess performance and make strategic financial decisions.
 
-View the Full Report (PDF)
+PDF:-https://github.com/RBhardwaj2080/Summer-internship-Projects--at-unified-Mentor/tree/Comprehensive-Financial-Performance-Dashboard
 
 # Tools and Technologies
 These projects were developed using a combination of industry-standard data analysis and visualization tools:
