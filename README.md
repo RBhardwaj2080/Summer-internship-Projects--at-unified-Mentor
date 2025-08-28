@@ -28,7 +28,7 @@ The dashboard visualizes attrition rates by department
 correlates salary with employee satisfaction
 provides actionable recommendations to improve retention.
 
-View the Full Report (PDF)
+ PDF:-https://github.com/RBhardwaj2080/Summer-internship-Projects--at-unified-Mentor/tree/HR-Analytics
 
 # 2. Plato's Pizza Sales Optimization
 Objective: To analyze pizza sales data to identify top-selling items, peak sales hours, and customer purchasing patterns to optimize inventory and marketing efforts.
@@ -37,7 +37,7 @@ Key Insights: The analysis reveals the most and least popular pizzas
 identifies daily and hourly sales trends
 suggests data-driven strategies to increase revenue.
 
-
+  PDF:-Platos-Pizza-Sales-Optimization
 
 # 3. Data Governance and Security Dashboard
 Objective: To create a dashboard that monitors data access, identifies potential security risks, and ensures compliance with data governance policies.
